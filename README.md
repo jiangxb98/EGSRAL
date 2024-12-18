@@ -4,9 +4,7 @@ This repository contains the official implementation associated with the paper "
 > Yixiong Huo\*, Guangfeng Jiang\*, Hongyang Wei, Ji Liu†, Song Zhang, Han Liu, Xingliang Huang, Mingjie Lu, Jinzhang Peng, Dong Li, Lu Tian, Emad Barsoum
 > AAAI 2025
 
-<p align="center">
-  <img src="images/egsral.png" width="100%" />
-</p>
+![framework](images\egsral.png)
 
 ## ToDo
 
@@ -78,31 +76,25 @@ CUDA_VISIBLE_DEVICES=0 python metrics_alex.py -m logs/kitti_egsral_group
 
 ### KITTI-City
 
-<p align="center">
-  <img src="images/kitti_city.png" width="50%" />
-</p>
+<img src="images\kitti_city.png" alt="framework" style="zoom:50%;" />
 
 ### NuScenes-D
 
-<p align="center">
-  <img src="images/nuscenes_d.png" width="50%" />
-</p>
+<img src="images\nuscenes_d.png" alt="framework" style="zoom:50%;" />
 
 ### NuScenes-S
 
-<p align="center">
-  <img src="images/nuscenes_s.png" width="50%" />
-</p>
+<img src="images\nuscenes_s.png" alt="framework" style="zoom:50%;" />
 
 ## Visualization
 
-<p align="center">
-  <img src="images/vis_kitti.png" width="80%" />
-</p>
+<img src="images\vis_kitti.png" alt="framework" style="zoom:50%;" />
 
-<p align="center">
-  <img src="images/auto_label.png" width="60%" />
-</p>
+<p align="center">Qualitative comparison of novel view synthesis on the KITTI City dataset.</p>
+
+<img src="images\auto_label.png" alt="framework" style="zoom:40%;" />
+
+<p align="center">Visualizing 2D/3D auto labeling on nuScenes.</p>
 
 ## Acknowledgments
 
