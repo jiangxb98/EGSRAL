@@ -1,7 +1,9 @@
 # EGS-RAL：An Enhanced 3D Gaussian Splatting based Renderer with Automated Labeling for Large-Scale Driving Scene
 This repository contains the official implementation associated with the paper "EGSRAL:An Enhanced 3D Gaussian Splatting Based Renderer with Automated Labeling for Large-Scale Driving Scene".
 
-> Yixiong Huo\*, Guangfeng Jiang\*, Hongyang Wei, Ji Liu†, Song Zhang, Han Liu, Xingliang Huang, Mingjie Lu, Jinzhang Peng, Dong Li, Lu Tian, Emad Barsoum
+⭐ [Arxiv](https://arxiv.org/abs/2412.15550)
+
+> Yixiong Huo\*, Guangfeng Jiang\*, Hongyang Wei, Ji Liu†, Song Zhang, Han Liu, Xingliang Huang, Mingjie Lu, Jinzhang Peng, Dong Li, Lu Tian, Emad Barsoum  
 > AAAI 2025
 
 ![framework](images/egsral.png)
